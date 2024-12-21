@@ -71,17 +71,6 @@ These files should be in the same directory as the `bikeshare_2.py` script.
 *   **Pandas:** For data manipulation and analysis.
 *   **NumPy:** For numerical calculations.
 
-## Potential Improvements
-
-*   Implement better user input validation.
-*   Expand analysis to include more granular data breakdowns.
-*   Add a graphical user interface (GUI) for improved user experience.
-*   Incorporate data visualization to aid in presenting the analysis findings.
-*   Add some basic error handling.
-*   Add some additional details in the README file, regarding how to run the project.
-*   Add more documentation regarding code in the `bikeshare_2.py` file.
-*   Add additional filters to data.
-
 ## License
 
 This project is open source and available for use under the MIT License.
